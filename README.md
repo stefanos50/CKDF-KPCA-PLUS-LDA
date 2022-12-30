@@ -12,4 +12,4 @@ Linear,Sigmoid and Polynomial kernels are also implemented but the accuracy was 
 
 Scipy CDIST was used to speed up the pairwise distance calculation and numpy for the linear algebra , value decomposition and rank calculation. Multithreading was also used for running a grid search of the kernel parameters and the theta parameter for the classification on the decision level.
 
-![Image1](Images/Image1.png)
+![Image1](Images/Image1.png =250x250)
